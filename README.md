@@ -15,5 +15,16 @@ Kullanıcı kendi portföyüne coin ekleyebilir, çıkarabilir ve **kâr/zarar d
 - Otomatik yenileme (varsayılan 10 saniye, kullanıcı ayarlayabilir)  
 
 ---
+## Kullanım
+
+- Top 20 listesi üzerinden istediğin coini portföyüne ekle.
+
+- Miktar ve alış fiyatını yaz → Ekle butonuna bas.
+
+- Portföyünde tüm coinleri, değerini ve kâr/zararını gör.
+
+- Sil butonuyla portföyden çıkarabilirsin.
+
+- ?refresh=5 ekleyerek sayfanın 5 saniyede bir otomatik yenilenmesini sağlayabilirsin:
 
 
