@@ -25,6 +25,6 @@ Kullanıcı kendi portföyüne coin ekleyebilir, çıkarabilir ve **kâr/zarar d
 
 - Sil butonuyla portföyden çıkarabilirsin.
 
-- ?refresh=5 ekleyerek sayfanın 5 saniyede bir otomatik yenilenmesini sağlayabilirsin:
+
 
 
